@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-This repository contains a few deep learning projects. Each project is written in IPython notebook, and PDF version is also provided.
+This repository contains a few machine learning projects. Each project is written in IPython notebook, and PDF version is also provided.
 
 ## 1. Customer Churn Prediction
 |#|Title|Description|IPython Notebook|PDF|
